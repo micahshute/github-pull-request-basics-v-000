@@ -76,7 +76,7 @@ Here's a story:
 1.  You make some changes and you want to send a pull request to their fork
     `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
-Well, `git` doesn't care whether one repository is the "source" or is
+Interestingly enough, `git` doesn't care whether one repository is the "source" or is
 "another fork of the source." Amazingly, if GitHub were to be wiped off the
 earth tomorrow, local copies on hundreds of laptops 'round the world are _just
 as good as the copy that GitHub_ had! This is why `git` is called a
