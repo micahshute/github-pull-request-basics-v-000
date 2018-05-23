@@ -9,10 +9,10 @@
 ## Overview:
 
 The concept of a pull request is unique to Github. It is a request for the
-owner of a receiving repository to take your changes, that you made on your
+owner of a receiving repository to take your changes that you made on your
 own copy of the repo ("your fork"), and "pull" them into the owner's repository.
 Pull requests power the open source community. Through this process,
-anyone can fork a repo, make changes and submit a pull request. Instead of
+anyone can fork a repo, make changes, and submit a pull request. Instead of
 the owner working on their codebase alone, _anyone_ can contribute: tests,
 documentation fixes, new features, awesome layout and graphics, etc...
 
@@ -76,7 +76,7 @@ Here's a story:
 1.  You make some changes and you want to send a pull request to their fork
     `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
-Amazingly, `git` doesn't care whether one repository is the "source" or is
+Well, `git` doesn't care whether one repository is the "source" or is
 "another fork of the source." Amazingly, if GitHub were to be wiped off the
 earth tomorrow, local copies on hundreds of laptops 'round the world are _just
 as good as the copy that GitHub_ had! This is why `git` is called a
